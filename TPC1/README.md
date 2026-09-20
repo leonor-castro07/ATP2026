@@ -2,9 +2,9 @@ TPC1
 
 ## Autor
 
--Nome: Leonor Baptista de Castro
--ID: A114498
--Foto: <img src="foto.JPG" alt="Foto do Autor" width=100">
+- Nome: Leonor Baptista de Castro
+- ID: A114498
+- Foto: <img src="foto.JPG" alt="Foto do Autor" width=100">
 
 ## Resumo
 
