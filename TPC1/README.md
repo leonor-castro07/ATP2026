@@ -6,10 +6,10 @@ TPC1
 -ID: A114498
 -Foto:
 
-##Resumo
+## Resumo
 
 Desenhar o barco à vela proposto pelo docente e resolver o Maze10 de Blockly Games
 
-##Lista dde resultados
+## Lista dde resultados
 
 
