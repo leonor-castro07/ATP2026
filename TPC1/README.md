@@ -4,7 +4,7 @@ TPC1
 
 - Nome: Leonor Baptista de Castro
 - ID: A114498
-- Foto: <img src="foto.png" alt="Foto do Autor" width=100">
+- Foto: <img src="foto.png" alt="Foto do autor" width="100">
 
 ## Resumo
 
