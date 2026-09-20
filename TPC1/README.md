@@ -12,6 +12,6 @@ Desenhar o barco à vela proposto pelo docente e resolver o Maze10 de Blockly Ga
 
 ## Lista dde resultados
 
-[Exercício 1: Resolução do nível 10 do mane do Blockly Games]
+[Exercício 1: Resolução do nível 10 do mane do Blockly Games](Maze10.png)
 [Exercício 2:
 
