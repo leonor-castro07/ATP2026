@@ -12,5 +12,5 @@ TPC2
 
 ## Lista dde resultados
 
-- [Exercício 1: Resolução do nível 10 do mane do Blockly Games](Maze10.png)
+- [Exercício 1: Jogo-Adivinha o número](
 
