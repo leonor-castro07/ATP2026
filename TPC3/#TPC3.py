@@ -16,7 +16,7 @@ if opcao == 1:
     while total < 100:
         jogador = int(input("Jogador, escolha um número de 1 a 10:"))
 
-        while jogador < 1 or jogador > 10:
+        while jogador < 1 or jogador > 10 or total + jogador > 100:
             jogador = int(input("Valor inválido. Escolha de 1 a 10:"))
 
         total = total + jogador
@@ -24,21 +24,15 @@ if opcao == 1:
 
         if total == 100:
             print("Jogador ganhou.")
-        print("Computador jogou:", computador)
-        print("Total:", total)
+        else:
+            computador = 11 - jogador
+            total = total + computador 
 
-        if total == 100:
-            print("Computador ganhou.")
-            break
+            print("Computador jogou:", computador)
+            print("Total:", total)
 
-        computador = 11 - jogador
-        total = total + computador
-
-        print("Computador jogou:", computador)
-        print("Total:", total)
-
-        if total == 100:
-            print("Computador ganhou.")
+            if total == 100:
+                print("Computador ganhou.")
 
 elif opcao == 2:
 
@@ -46,7 +40,8 @@ elif opcao == 2:
 
         jogador = int(input("Jogador, escolha um número de 1 a 10:"))
 
-        while jogador < 1 or jogador > 10:
+        while jogador < 1 or jogador > 10 or total + jogador > 100:
+
             jogador = int(input("Valor inválido. Escolha de 1 a 10:"))
 
         total = total + jogador
@@ -54,13 +49,15 @@ elif opcao == 2:
 
         if total == 100:
             print("Jogador ganhou.")
-            break 
+        else:
+            computador = 11 - jogador 
 
-    computador = 11 - jogador 
-    total = total + computador
+            total = total + computador
 
-    print("Computador jogou:", computador)
-    print("Total:", total)
+            print("Computador jogou:", computador)
+            print("Total:", total)
 
-    if total == 100:
-        print("Computador ganhou.")
+            if total == 100:
+                print("Computador ganhou.")
+else:
+    print ("Opção inválida.")
