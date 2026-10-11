@@ -14,4 +14,4 @@ O total começa em 0. O jogador e o computador alternam somando um número de 1 
 Implementa o jogo com 2 vertentes: o computador joga primeiro (deverá ganhar sempre), e o computador joga em segundo lugar (poderá ganhar ou não dependendo das jogadas do outro).
 ## Lista de resultados
 
-- [Exercício 1: Jogo-Adivinha o número](#TPC3.py)
+- [Exercício 1: Corrida para o 100.](#TPC3.py)
