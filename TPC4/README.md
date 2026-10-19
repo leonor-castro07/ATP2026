@@ -7,7 +7,7 @@ TPC2
 - Foto: <img src="foto.png" alt="Foto do autor" width="100">
 
 ## Resumo
-*Crie uma aplicação em Python que coloca no monitor o seguinte menu:
+Crie uma aplicação em Python que coloca no monitor o seguinte menu:
     - Criar Lista; 
     - Ler Lista;
     - Soma;
