@@ -8,16 +8,16 @@ TPC2
 
 ## Resumo
 Crie uma aplicação em Python que coloca no monitor o seguinte menu:
-    - Criar Lista; 
-    - Ler Lista;
-    - Soma;
-    - Média;
-    - Maior;
-    - Menor;
-    - Ordenada por ordem crescente;
-    - Ordenada por ordem decrescente;
-    - Procura um elemento;
-    - Sair;
+- Criar Lista; 
+- Ler Lista;
+- Soma;
+- Média;
+- Maior;
+- Menor;
+- Ordenada por ordem crescente;
+- Ordenada por ordem decrescente;
+- Procura um elemento;
+- Sair;
 - O utilizador irá escolher uma das opções introduzindo o número correspondente;
 - Se a opção não for sair, a aplicação executa a operação pretendida, apresenta o resultado e a seguir apresenta de novo o menu;
 - Se a opção for sair, a aplicação termina colocando uma mensagem no monitor.
