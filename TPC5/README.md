@@ -7,7 +7,7 @@ TPC5
 - Foto: <img src="foto.png" alt="Foto do autor" width="100">
 
 ## Resumo
-O TPC do TP6 consistiu na criação de uma aplicação de gestão de alunos. Considerei que o modelo do aluno e da turma têm a seguinte estrutura:
+O TPC do TP5 consistiu na criação de uma aplicação de gestão de alunos. Considerei que o modelo do aluno e da turma têm a seguinte estrutura:
 
 aluno = (nome, id, [notaTPC, notaProj, notaTeste]) turma = [aluno]
 
