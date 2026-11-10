@@ -6,6 +6,7 @@ TPC6
 - ID: A114498
 - Foto: <img src="foto.png" alt="Foto do autor" width="100">
 
+## Resumo
 O TPC do TP6 consistiu na criação de uma aplicação de metereologia.
 Considerei que o modelo da lista de dias registados tem a seguinte estrutura:
     TabMeteo = [(Data,TempMin,TempMax,Precipitacao)]
