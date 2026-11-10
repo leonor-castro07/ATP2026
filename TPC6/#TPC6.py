@@ -1,4 +1,4 @@
-#TPC7
+#TPC6
 ## Aplicação Metereológica
 
 def criarTabMeteo(t):
