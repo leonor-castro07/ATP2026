@@ -1,5 +1,5 @@
 
-TPC6
+TPC7
 
 ## Autor
 
@@ -7,7 +7,7 @@ TPC6
 - ID: A114498
 - Foto: <img src="foto.png" alt="Foto do autor" width="100">
 
-O TPC do TP8 consistiu na resolução de um teste de aferição proposto pelo docente da UC.
+O TPC do TP7 consistiu na resolução de um teste de aferição proposto pelo docente da UC.
 O TPC pode ser dividio em 3 componentes principais:
 * Criação de listas em compreensão.
 * Especificação de funções variadas.
